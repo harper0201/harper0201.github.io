@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /collection/
+title: collection
+description: Welcome to my Art Gallery
 nav: true
 nav_order: 6
 
@@ -10,19 +10,15 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: dead_poets_society.jpg
+    content: dead_poets_society.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: 1984.webp
+    content: 1984.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+
 ---
