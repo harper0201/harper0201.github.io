@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+repository: harper0201/harper0201.github.io
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Xin
 middle_name: 
@@ -137,7 +137,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo:                          # <your-github-user-name>/<your-github-repo-name>
+  repo: harper0201/harper0201.github.io                          # <your-github-user-name>/<your-github-repo-name>
   category: Comments             # name of the category under which discussions will be created
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
@@ -161,6 +161,8 @@ external_sources:
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
+
+github: [metadata]
 
 collections:
   news:
@@ -263,8 +265,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['C++', 'Embbeded System', 'Linux', 'Computer fundamental', 'English Learning','Reading and Writing'] # these tags will be displayed on the front page of your blog
-display_categories: ['Computer Science'] # these categories will be displayed on the front page of your blog
+display_tags: ['C++', 'Embbeded System', 'Linux', 'Computer fundamental', 'English Learning','Reading and Writing','formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+display_categories: [blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
