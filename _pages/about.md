@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to my channel. I've curated my favorite quotations from Albert Camus's book, 'The Myth of Sisyphus,' because I believe it captures the essence of life. The metaphor of Sisyphus, condemned to endlessly push a boulder up a hill, resonates deeply with the human experience and the perpetual quest for meaning.
+subtitle: Welcome to my channel. We all dies 3 times. Once is a physical death. Second is when the last person who remembers us forgets/dies. Third is when anything we create is lost or forgotten. While I may be powerless to forestall my inevitable physical demise or manipulate the memories of those around me, I can endeavor to create something lasting—something that withstands the trials of time. In the end, this shall serve as my testament to life.
 
 profile:
   align: right
   image: Sisyphus.webp
   content: about_einstein.md
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: I've curated my favorite quotations from Albert Camus's book, 'The Myth of Sisyphus,' because I believe it captures the essence of life. The metaphor of Sisyphus, condemned to endlessly push a boulder up a hill, resonates deeply with the human experience and the perpetual quest for meaning.
 
 
 news: false  # includes a list of news items
