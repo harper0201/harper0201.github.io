@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to my channel! I've curated my favorite quotations from Albert Camus's book, 'The Myth of Sisyphus,' because I believe it captures the essence of life. The metaphor of Sisyphus, condemned to endlessly push a boulder up a hill, resonates deeply with the human experience and the perpetual quest for meaning.
+subtitle: Welcome to my channel. I've curated my favorite quotations from Albert Camus's book, 'The Myth of Sisyphus,' because I believe it captures the essence of life. The metaphor of Sisyphus, condemned to endlessly push a boulder up a hill, resonates deeply with the human experience and the perpetual quest for meaning.
 
 profile:
   align: right
