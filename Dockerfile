@@ -13,6 +13,13 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends \
     inotify-tools procps && \
     apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    curl \
+    git \
+    nodejs \
+    ruby-full \
+    && rm -rf /var/lib/apt/lists/*
 
 RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \
     locale-gen
