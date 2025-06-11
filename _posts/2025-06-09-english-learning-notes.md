@@ -2,7 +2,7 @@
 layout: post
 title: English Notes
 date: 2025-06-09
-tags: english learning
+tags: English Learning
 categories: sample-posts
 ---
 
