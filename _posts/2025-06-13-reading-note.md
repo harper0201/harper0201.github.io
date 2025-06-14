@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Reading Notes
-date: 2025-06-10
-tags: Reading Note
+title: Reading Notes
+date: 2025-06-13
+tags: Reading and Writing
 categories: sample-posts
 ---
 
