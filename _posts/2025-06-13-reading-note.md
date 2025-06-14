@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Reading Notes: The Role of AI in Software Development
+title:  Reading Notes
 date: 2025-06-10
 tags: Reading Note
 categories: sample-posts
